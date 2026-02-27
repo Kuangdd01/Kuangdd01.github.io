@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Kingsley's blog'
+title = 'Kingsley blog'
 theme = "Papermod"
 
 [caches]
@@ -8,15 +8,10 @@ theme = "Papermod"
     dir = ':cacheDir/images'
 
 [params]
-  # params 下的配置保留，用于页面显示
   author = "kingsley"
-
-  # --- 添加这一块来实现 Banner ---
   [params.homeInfoParams]
-    Title = "Hi, make huge 👋"     # Banner 的大标题
-    Content = "这里是我的博客简介，可以在这里写一段自我介绍或者网站说明。" # Banner 的正文内容
-  
-  # 如果你想在 Banner 右侧显示社交图标（GitHub, Twitter等）
+    Title = "Hi, make huge 👋" 
+    Content = "..."
   [[params.socialIcons]]
     name = "github"
     url = "https://github.com/Kuangdd01"
