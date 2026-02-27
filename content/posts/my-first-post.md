@@ -6,4 +6,4 @@ author = 'kingsley'
 +++
 ## Introduction
 
-hello world
+hello world.
