@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'Kingsley study blog'
-theme = "PaperMod"
+title = 'Kingsley's blog'
+theme = "Papermod"
 
 [caches]
   [caches.images]
